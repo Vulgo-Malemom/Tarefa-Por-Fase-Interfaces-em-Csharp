@@ -4,7 +4,7 @@
 **Contrato:** Transformar o texto original em uma versão codificada.  
 **Implementação A:** Codificar o texto em Base64.  
 **Implementação B:** Aplicar cifra de César com 3 caracteres de deslocamento.  
-**Política:** ?  
+**Política:** Base64 para logs internos; Cifra de César para dados sensíveis básicos 
 **Risco/Observação:** ?  
 
 
